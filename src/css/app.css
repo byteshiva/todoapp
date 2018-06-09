@@ -1,0 +1,11 @@
+div#component {
+    margin: 5em;
+    width: 40em;
+}
+
+@media only screen and (max-width: 600px) {
+    div#component {
+        margin: auto;
+        width: auto;
+    }
+}
