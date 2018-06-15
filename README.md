@@ -35,8 +35,12 @@ npm test
 )
 
 
-![Testcases in Mobile](https://raw.githubusercontent.com/byteshiva/todoapp/master/screenshots/Screenshot%20from%202018-06-14%2023-25-49.png
+![Unit testcases](https://raw.githubusercontent.com/byteshiva/todoapp/master/screenshots/Screenshot%20from%202018-06-14%2023-25-49.png
 )
 
+![e2e test results](https://raw.githubusercontent.com/byteshiva/todoapp/master/screenshots/Screenshot%20from%202018-06-15%2008-52-43.png)
+
+![e2e browser based results](https://raw.githubusercontent.com/byteshiva/todoapp/master/screenshots/Screenshot%20from%202018-06-15%2008-55-00.png
+)
 
 
