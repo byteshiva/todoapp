@@ -1,4 +1,5 @@
-# todoapp
+
+# TodoApp [![Build Status](https://circleci.com/gh/byteshiva/todoapp.svg?style=svg)](https://circleci.com/gh/byteshiva/todoapp)
 
 > A Todo Application
 
