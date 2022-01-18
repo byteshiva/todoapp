@@ -1,5 +1,5 @@
 # Create the image based on the official Node 10.4.0 image from Dockerhub
-FROM node:10.4.0 as node
+FROM node:10.24.1 as node
 
 # Create a directory where our app will be placed. This might not be necessary
 RUN mkdir -p /todoapp
